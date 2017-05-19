@@ -1,0 +1,116 @@
+html {
+
+}
+
+
+/* font options */
+
+font-family: 'EB Garamond', serif;
+font-family: 'Cinzel', serif;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Playfair Display SC', serif;
+font-family: 'UnifrakturMaguntia', cursive;
+font-family: 'Metamorphous', cursive;
+font-family: 'Cormorant Unicase', serif;
+
+/* home-page */
+
+.body {
+    height: 100%;
+    width: 100%;
+    min-width: 1000px;
+    min-height: 1000px;
+    padding: 0;
+    margin: 0;
+}
+
+.notworking {
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+    letter-spacing: 6px;
+    color: #000000;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.FLJ {
+    font-family: 'Cormorant Unicase', serif;
+    font-size: 300px;
+    text-transform: none;
+    letter-spacing: 6px;
+    font-weight: 300;
+    font-style: normal;
+    color: #660000;
+    text-align: center;
+    margin: 0;
+}
+
+
+/* artist-statment-page */
+
+.artist-statement {
+    font-family: 'EB Garamond', serif;
+    color: black;
+}
+
+.inBetween {
+  min-width: 10px;
+  min-height: 10px;
+}
+/* contact-page */
+
+.flex-container {
+display: flex;
+flex-wrap: wrap-reverse;
+width: 100%;
+align-items: center;
+justify-content: space-around;
+max-width: 1000px;
+margin: auto;
+
+
+}
+
+
+
+.FLJimg {
+  max-width: 250px;
+  flex-basis: 30%;
+  border-radius: 2px;
+}
+
+
+.contact {
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+}
+
+.sub-name {
+  font-style: normal;
+  font-weight: 200;
+  font-family: 'Cinzel', sans-serif;
+}
+
+.FLJ-top {
+  font-family: 'Cormorant Unicase', serif;
+  font-size: 100px;
+  text-transform: none;
+  letter-spacing: 6px;
+  font-weight: 300;
+  font-style: normal;
+  color: #660000;
+
+}
+
+.text-right {
+  text-align: right;
+}
