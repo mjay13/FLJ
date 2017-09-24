@@ -51,7 +51,7 @@ a {
     font-style: normal;
     color: #660000;
     text-align: center;
-    margin: 0;
+    margin: 0px;
 }
 
 
@@ -60,6 +60,7 @@ a {
 .artist-statement {
     font-family: 'EB Garamond', serif;
     color: black;
+    margin: 20px;
 }
 
 .inBetween {
@@ -108,6 +109,7 @@ margin: auto;
   font-weight: 300;
   font-style: normal;
   color: #660000;
+  margin-right: 20px;
 
 }
 
